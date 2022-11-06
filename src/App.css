@@ -1,0 +1,15 @@
+.my_card img {
+    width: 200px;
+    height: 200px;
+    margin: auto;
+}
+
+.my_description {
+    height: 140px;
+    overflow: hidden;
+}
+
+.my_card h5 {
+    height: 50px;
+    overflow: hidden;
+}
